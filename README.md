@@ -242,8 +242,6 @@ rk.compile("myApp")
 
 MIT License
 
-Sadly, You cannot test or distribute apps yet, but that will come later.
-
 ## ⚠️ License  
 ModernOS is a **closed-source project**.  
 Binaries may be freely downloaded and tested, but redistribution or reverse engineering of the kernel is prohibited.  
