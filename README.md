@@ -5,7 +5,7 @@
 
 ## 🚀 Overview  
 **ModernOS** is a lightweight, modular operating system designed for modern computing environments.  
-It’s built from the ground up in **C** and **Assembly**, developed and tested in **Xcode**, and runs on x86_64 hardware.  
+It’s built from the ground up in **C** and **Assembly** and in newer versions added **C++** and **Rust**, developed and tested in **Xcode**, and runs on x86_64 hardware.  
 
 The system focuses on:
 - ⚙️ **Modular kernel architecture** – inspired by microkernel design, enabling cleaner system calls and driver isolation.  
